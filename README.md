@@ -40,7 +40,7 @@ To add a widget to an article on your wiki, edit the article and add the followi
 <gittip>username</gittip>
 ```
 
-Replacing username with the username who's gittip balance you want to show.
+Replace username with the name of the gittip account you want so show.
 
 # ToDo #
 
