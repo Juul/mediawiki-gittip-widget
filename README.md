@@ -13,14 +13,14 @@ unzip master.zip
 Move the extension to your mediawiki extensions directory, e.g:
 
 ```
-sudo mv mediawiki-gittip-widget-master /var/www/sudoroom.org/public_html/mediawiki/extensions/GittipWidget
+sudo mv mediawiki-gittip-widget-master /var/www/mysite.org/public_html/mediawiki/extensions/GittipWidget
 ```
 
 Set ownership, e.g:
 
 
 ```
-cd /var/www/sudoroom.org/public_html/mediawiki
+cd /var/www/mysite.org/public_html/mediawiki
 sudo chown www-data.www-data -R extensions/GittipWidget
 ```
 
